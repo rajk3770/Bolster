@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "970425742425",
+    "firebase_url": "https://myspecialist-586a1.firebaseio.com",
+    "project_id": "myspecialist-586a1",
+    "storage_bucket": "myspecialist-586a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970425742425:android:f04d3c7cc4de8ed0",
+        "android_client_info": {
+          "package_name": "com.example.farhan.myspecialist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970425742425-jbl9dljmekjn69i5vb0tqa9l4eqjtlcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farhan.myspecialist",
+            "certificate_hash": "93eb311a851015181e0f8a39ae4fbaba3d00e642"
+          }
+        },
+        {
+          "client_id": "970425742425-lf7th64b605hb7as8lfagf4qms5comds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfsLlVZTNZjjSyinMZFr0hG386bijjoeE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970425742425-lf7th64b605hb7as8lfagf4qms5comds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

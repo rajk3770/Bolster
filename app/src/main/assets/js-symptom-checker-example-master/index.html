@@ -1,0 +1,29 @@
+<!Doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Symptom Checker Example</title>
+</head>
+<body>
+<script src="jquery-3.3.1.min.js">
+$(document).ready(function(){
+var http = require('http');
+http.createServer(function (req, res) {
+    res.writeHead(200, {'Content-Type': 'text/html'});
+    res.end('Hello World!');
+}).listen(1234); 
+});
+</script>
+<div class="container main-container">
+    <div id="app">
+        <p>App not loaded.</p>
+    </div>
+</div>
+
+<script src="public/bundle.js"></script>
+
+</body>
+</html>

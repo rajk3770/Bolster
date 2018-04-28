@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home_id" android:title="Home" />
+    <item android:id="@+id/hospital_id" android:title="Hospital" />
+    <item android:id="@+id/symptom_checker" android:title="Symptom Checker" />
+    <item android:id="@+id/uploads" android:title="Uploads" />
+    <item android:id="@+id/vitalsigns" android:title="Vital Signs" />
+    <item android:id="@+id/logout" android:title="Logout" />
+</menu>
