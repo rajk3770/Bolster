@@ -22,7 +22,7 @@
     "eslint-loader": "^1.6.1",
     "file-loader": "^0.10.0",
     "font-awesome": "^4.7.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "semistandard": "^9.2.1",
     "standard": "^8.6.0",
     "style-loader": "^0.13.1",
